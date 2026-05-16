@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+
+# IDE
+.idea/
+
+# Data files (download from Kaggle: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+imdb_top_1000.csv
+
+# Model cache (downloaded automatically on first run)
+.cache/
