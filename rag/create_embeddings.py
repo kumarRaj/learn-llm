@@ -1,4 +1,6 @@
 # create_embeddings.py
+# Dataset: Customer Support Tickets
+# Source: https://www.kaggle.com/datasets/sudipta0811/customer-support-ticket-dataset
 import pandas as pd
 from transformers import AutoTokenizer, AutoModel
 import torch
